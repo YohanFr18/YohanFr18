@@ -1,27 +1,27 @@
-<h1>Hello, I'm Yohan Francieira! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+# Hello, I'm Yohan Francieira! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<p><em>Computer Science undergraduate at Unicamp</em> <img src="https://w7.pngwing.com/pngs/32/567/png-transparent-unicamp-hd-logo.png" width="30"></p>
+<p>
+  <em>Computer Science student at <b>Unicamp</b></em> 🎓
+  <br/>
+  <em>Passionate about Artificial Intelligence, Machine Learning, and Data Science.</em>
+</p>
 
+---
 
-
-## 🧑🏾‍💻 My informations
+## 👨‍💻 About Me
 
 ```python
-def create_profile():
-    return {
-        "name": "Yohan Francieira",
-        "age": "24 years",
-        "city": "Campinas-SP",
-        "education": "4th semester in Computer Science",
-        "interests": ["Data Science", "Machine Learning", "IA", "Algorithms"],
-        "current_challenge": "Developing my skills in Machine Learning and AI",
-    }
+class Bio:
+    def __init__(self):
+        self.name = "Yohan Francieira"
+        self.location = "Campinas-SP, Brazil"
+        self.interests = ["Data Science", "Machine Learning", "AI", "Algorithms"]
+        self.goal = "To deepen my knowledge and build innovative AI projects."
 
-profile = create_profile()
+    def __str__(self):
+        return f"My name is {self.name}, I live in {self.location} and my goal is {self.goal}"
 
-print(f"Hello, I'm {profile['name']}! 🚀 Currently, I'm focused on {profile['current_challenge']}.")
-
-```
+me = Bio()
 
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohanFr18&show_icons=true&theme=dracula)
 
