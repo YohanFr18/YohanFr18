@@ -22,6 +22,7 @@ class Bio:
         return f"My name is {self.name}, I live in {self.location} and my goal is {self.goal}"
 
 me = Bio()
+```
 
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohanFr18&show_icons=true&theme=dracula)
 
