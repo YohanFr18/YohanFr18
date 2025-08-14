@@ -25,9 +25,13 @@ me = Bio()
 ```
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YohanFr18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanFr18&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com?user=YohanFr18&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" width="500" alt="streak graph" />  
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YohanFr18&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" width="500" alt="languages graph" />  
 </div>
+ 
 
 ## 🛠️ Tech Stack & Tools
 
