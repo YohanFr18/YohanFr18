@@ -24,13 +24,16 @@ class Bio:
 me = Bio()
 ```
 
+## 📊 Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YohanFr18&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" width="500" alt="streak graph" />  
+  <img src="https://streak-stats.demolab.com?user=YohanFr18&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />  
 
-  <br>
+  <br>  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YohanFr18&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" width="500" alt="languages graph" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YohanFr18&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />  
 </div>
+
  
 
 ## 🛠️ Tech Stack & Tools
@@ -60,3 +63,12 @@ me = Bio()
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+##
+
+<div align="center">
+  
+  ![Contador de Visitantes](https://komarev.com/ghpvc/?username=YohanFr18&color=orange&style=flat-square)
+  
+</div>
+
