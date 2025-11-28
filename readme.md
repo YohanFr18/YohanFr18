@@ -27,11 +27,10 @@ me = Bio()
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YohanFr18&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />  
 
-  <br>  
+![YohanFr18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohanFr18&theme=gotham&hide_border=false)  
+![YohanFr18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanFr18&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YohanFr18&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />  
 </div>
 
  
