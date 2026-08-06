@@ -18,16 +18,15 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=gotham
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
 
       - name: Commit card
         run: |
