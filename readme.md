@@ -29,7 +29,7 @@ me = Bio()
 <div align="center">
 
 ![YohanFr18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohanFr18&theme=gotham&hide_border=false)  
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YohanFr18&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YohanFr18&theme=github_dark)
 
 </div>
 
